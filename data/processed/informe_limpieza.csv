@@ -1,0 +1,8 @@
+tabla,paso,filas,nulos,memoria_mb
+orders,0 crudo,478967,28819,23.0
+orders,1 sin duplicados,478952,28817,23.0
+orders,2 tipos,478952,28817,7.2
+products,0 crudo,49694,1258,3.1
+products,1 nombres,49694,0,3.1
+order_prods,0 crudo,4545007,836,145.4
+order_prods,1 tipos,4545007,836,54.5
